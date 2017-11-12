@@ -28,6 +28,9 @@
 - Android Studio 3.0 +
 - 真实 Android 8.0 + 设备 (Nexus 5X 或者其它设备)
 
+## 截图
+![pip sample with agora sdk](screenshots/pip-sample-agora.png)
+
 ## 联系我们
 - 完整的 API 文档见 [文档中心](https://docs.agora.io/cn/)
 - 如果在集成中遇到问题, 你可以到 [开发者社区](https://dev.agora.io/cn/) 提问

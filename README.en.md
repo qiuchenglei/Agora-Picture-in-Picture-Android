@@ -28,6 +28,9 @@ Or use `Gradle` to build and run.
 - Android Studio 3.0 +
 - Real devices (Nexus 5X or other devices with Android 8.0 +)
 
+## Screenshot
+![pip sample with agora sdk](screenshots/pip-sample-agora.png)
+
 ## Connect Us
 - You can find full API document at [Document Center](https://docs.agora.io/en/)
 - You can file bugs about this demo at [issue](https://github.com/AgoraIO/Agora-Picture-in-Picture/issues)
